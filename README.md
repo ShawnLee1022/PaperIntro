@@ -1,4 +1,4 @@
-# PaperIntro
+# Paper Intro
 Introduce paper
 
 [EchoPFL](https://github.com/ShawnLee1022/PaperIntro/blob/main/EchoPFL.md)
